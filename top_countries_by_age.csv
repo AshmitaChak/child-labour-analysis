@@ -1,0 +1,11 @@
+Country,Country_Code,Region,Year,Child_Labor_Rate_Percent,Estimated_Children_Millions,Gender,Age_Group
+Democratic Republic of Congo,COD,Sub-Saharan Africa,2024,49.8,11.34,Total,5-17 years
+Nigeria,NGA,Sub-Saharan Africa,2024,15.2,10.69,Total,5-17 years
+Indonesia,IDN,Asia and the Pacific,2023,6.9,8.8,Total,5-17 years
+Pakistan,PAK,Asia and the Pacific,2023,12.5,8.4,Total,5-17 years
+Ethiopia,ETH,Sub-Saharan Africa,2024,18.5,8.05,Total,5-17 years
+Guinea-Bissau,GNB,Other,2014,63.92,31.96,Total,7-14 years
+Cameroon,CMR,Other,2011,62.0,31.0,Total,7-14 years
+Sierra Leone,SLE,Other,2013,59.2,29.6,Total,7-14 years
+Chad,TCD,Other,2015,55.9,27.95,Total,7-14 years
+Burkina Faso,BFA,Sub-Saharan Africa,2010,50.3,25.15,Total,7-14 years
