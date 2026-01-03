@@ -1,5 +1,5 @@
-## 📊 Child Labour: Global Patterns & Disparities
-# Overview
+# 📊 Child Labour: Global Patterns & Disparities
+## Overview
 
 This project explores global child labour trends using international statistics, with a focus on:
 
@@ -11,7 +11,7 @@ Gender disparities in child labour participation
 
 The analysis combines Python-based data wrangling and EDA with Tableau-based visual storytelling.
 
-# 🔍 Research Questions
+## 🔍 Research Questions
 
 How has child labour prevalence changed over time across world regions?
 
@@ -29,7 +29,7 @@ Tableau: interactive visual storytelling
 
 GitHub: version control & portfolio hosting
 
-📁 Repository Structure
+## 📁 Repository Structure
 ├── data/          # Cleaned datasets used for visualization
 ├── notebooks/     # Python EDA and data preparation
 ├── tableau/       # Tableau story screenshots
@@ -44,9 +44,6 @@ A small number of countries account for a disproportionate share of child labour
 In many countries, boys exhibit higher child labour participation than girls, indicating notable gender disparities.
 
 ## 🌐 Tableau Visualizations
-
-Interactive Tableau Public story will be published shortly.
-Temporary screenshots are provided due to Tableau Public server issues.
 
 Interactive Tableau Public story will be published shortly.
 Temporary screenshots are provided due to Tableau Public server issues.
