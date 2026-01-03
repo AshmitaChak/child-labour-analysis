@@ -1,5 +1,5 @@
 ## 📊 Child Labour: Global Patterns & Disparities
-Overview
+# Overview
 
 This project explores global child labour trends using international statistics, with a focus on:
 
@@ -11,7 +11,7 @@ Gender disparities in child labour participation
 
 The analysis combines Python-based data wrangling and EDA with Tableau-based visual storytelling.
 
-🔍 Research Questions
+# 🔍 Research Questions
 
 How has child labour prevalence changed over time across world regions?
 
